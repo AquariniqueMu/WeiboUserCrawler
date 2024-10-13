@@ -22,7 +22,6 @@
 - [常见问题](#常见问题)
 - [联系方式](#联系方式)
 - [免责声明](#免责声明)
-- [requirements.txt](#requirementstxt)
 
 ---
 
